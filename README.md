@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm an aspiring **Web Developer** and **Full-Stack
 
 #### ⚙️ Backend Development:  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
 #### 🗄️ Databases:  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
