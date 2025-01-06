@@ -9,13 +9,14 @@ Welcome to my GitHub profile! I'm an aspiring **Web Developer** and **Full-Stack
 - 💻 Solving problems on **LeetCode**, **Codeforces**, and **CodeChef** to sharpen my DSA and problem-solving skills.
 - 📚 Working on fascinating projects to enhance my portfolio and gain hands-on experience.
 - 🎨 Exploring **photography** and **editing** as creative outlets.
+- 🌟 I enjoy learning new things every day—it gives me immense satisfaction.
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa&show_icons=true&theme=radical)
 
 ---
 
 ### 🎯 Fun Fact
-"Coding is like solving a puzzle, every line brings you closer to the solution!"
+Coding is like solving a puzzle, every line brings you closer to the solution!
