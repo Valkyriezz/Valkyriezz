@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Vanshika👋
 
-<!--
-**Vanshikaxxa/vanshikaxxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an aspiring **Web Developer** and **Full-Stack Developer**, passionate about building user-friendly web applications and learning cutting-edge technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Currently learning **React.js**, **Node.js**, and exploring **AI/ML** integration with web development.
+- 💻 Solving problems on **LeetCode**, **Codeforces**, and **CodeChef** to sharpen my DSA and problem-solving skills.
+- 📚 Working on fascinating projects to enhance my portfolio and gain hands-on experience.
+- 🎨 Exploring **photography** and **editing** as creative outlets.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+### 🎯 Fun Fact
+"Coding is like solving a puzzle, every line brings you closer to the solution!"
