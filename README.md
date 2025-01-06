@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an aspiring **Web Developer** and **Full-Stack
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshikaa&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshikaxxa&show_icons=true&theme=radical)
 
 ---
 
