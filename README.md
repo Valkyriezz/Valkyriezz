@@ -1,4 +1,4 @@
-# Hi there, I'm Vanshika👋
+# Hi there, I'm Vanshikha👋
 
 Welcome to my GitHub profile! I'm an aspiring **Web Developer** and **Full-Stack Developer**, passionate about building user-friendly web applications and learning cutting-edge technologies.
 
