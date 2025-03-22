@@ -1,4 +1,6 @@
 # Hi there, I'm Vanshikha👋
+![Profile Views](https://komarev.com/ghpvc/?username=Vanshikaxxa&label=Profile%20Views&color=blue&style=for-the-badge)
+
 
 Welcome to my GitHub profile! I'm an aspiring **Web Developer** and **Full-Stack Developer**, passionate about building user-friendly web applications and learning cutting-edge technologies.
 
