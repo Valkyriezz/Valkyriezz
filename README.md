@@ -1,5 +1,5 @@
 # Hi there, I'm Vanshikha👋
-![Profile Views](https://komarev.com/ghpvc/?username=Vanshikaxxa&label=Profile%20Views&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Valkyriezz&label=Profile%20Views&color=blue&style=for-the-badge)
 
 
 Welcome to my GitHub profile! I'm an aspiring **Web Developer** and **Full-Stack Developer**, passionate about building user-friendly web applications and learning cutting-edge technologies.
@@ -53,14 +53,14 @@ Welcome to my GitHub profile! I'm an aspiring **Web Developer** and **Full-Stack
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshikaxxa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Valkyriezza&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 📌 Languages Used in My Projects  
 <P align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikaxxa&layout=compact&theme=radical" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkyriezz&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 
