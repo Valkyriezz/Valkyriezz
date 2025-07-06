@@ -11,41 +11,18 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently mastering **React.js**, **Node.js**, and exploring **AI/ML** integration with web development
-- 💻 Actively solving problems on **LeetCode**, **Codeforces**, and **CodeChef** to sharpen my DSA skills
-- 🚀 Building fascinating projects to enhance my portfolio and gain hands-on experience
+- 🌱 Currently mastering **React.js**, **Node.js**, and exploring **AI/ML** integration with web development  
+- 💻 Actively solving problems on **LeetCode**, **Codeforces**, and **CodeChef** to sharpen my DSA skills  
+- 🚀 Building fascinating projects to enhance my portfolio and gain hands-on experience  
 - 🎯 **Goal**: Contributing to open-source projects and building impactful web applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,ts&perline=3" height="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,ts,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma&perline=16" height="50" />
 </p>
-
-### 🎨 Frontend Development
-<p align="">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4" height="50" />
-</p>
-
-### ⚙️ Backend Development
-<p align="">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" height="50" />
-</p>
-
-### 🗄️ Databases
-<p align="">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" height="50" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" height="50" />
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -68,8 +45,6 @@
   🌟 Coffee + Code = Perfect Harmony ☕<br/>
   🚀 Always curious, always learning, always growing!
 </p>
-
----
 
 <p align="center">
   <b>✨ "The best way to predict the future is to create it!" ✨</b>
