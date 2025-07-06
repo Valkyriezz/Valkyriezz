@@ -1,8 +1,7 @@
 <!-- Top Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Vanshikha&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-<!-- Profile Views Badge -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Valkyriezz&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Valkyriezz?label=Followers&style=for-the-badge&color=blue" />
 </p>
@@ -36,15 +35,6 @@
 </div>
 
 ---
-
-## 🎯 Fun Facts
-
-<p align="center">
-  🔥 <strong>Coding is like solving a puzzle—every line brings you closer to the solution!</strong> 🧩<br/>
-  📸 I believe every bug is just a feature waiting to be discovered<br/>
-  🌟 Coffee + Code = Perfect Harmony ☕<br/>
-  🚀 Always curious, always learning, always growing!
-</p>
 
 <p align="center">
   <b>✨ "The best way to predict the future is to create it!" ✨</b>
