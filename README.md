@@ -26,12 +26,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Valkyriezz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="296" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkyriezz&layout=compact&theme=tokyonight"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Adarshkumar167&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="296" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkumar167&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Valkyriezz&theme=tokyonight" alt="GitHub Streak" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshkumar167&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
